@@ -1,8 +1,10 @@
 Project name :Rssturant management system.
 Project type: Windows Form application.
-Project Info: *Customers are able to choose food based on Menu.
-              *Customers able to See menu food availability and price.
+Project Info: 
 
+              *Customers are able to choose food based on Menu.
+              *Customers able to See menu food availability and price.
+            
               *Admin can add new food menu or edit existing one
               *Admin able to see total Expense of a month  Also see statics of sale (graph,bar chart)
               *Admin login
